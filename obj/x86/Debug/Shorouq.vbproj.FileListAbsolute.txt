@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\bin\Debug\Shorouq.exe
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\bin\Debug\Shorouq.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\bin\Debug\Shorouq.xml
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.exe
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.xml
+c:\users\dell\documents\visual studio 2010\Projects\Shorouq\Shorouq\obj\x86\Debug\Shorouq.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\Shorouq\Shorouq\bin\Debug\Guna.UI2.dll
